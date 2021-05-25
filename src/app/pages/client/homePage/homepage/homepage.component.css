@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+ margin: 0;
+ padding: 0;
+}
+#align{
+     border: 1px solid black;
+     width: 60%;
+     height: auto;
+     margin: auto;
+     padding-left: 30px;
+    
+}
+#alignOne{
+    /*border: 1px solid black;*/
+    border: 1px solid black;
+    width: 25%;
+    height: auto;
+    margin: auto;
+    text-decoration: none;
+}
+#alignTwo{
+    border: 1px solid black;
+    float: right;
+    width: 25%;
+    height: 100%;
+}
+#alignThree{
+    border: 1px solid black;
+    float: right;
+    width: 50%;
+    height: 100%;
+    font-size: 22px;
+    padding-left: 40px;
+    
+}
+#alignThree a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+nav ul li {
+    display: inline-block;
+}
