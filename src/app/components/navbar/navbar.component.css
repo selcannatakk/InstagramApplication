@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+body{
+ margin: 0;
+ padding: 0;
+}
+header{
+    border: 1px solid black;
+    
+    
+    
+    
+}
+.navbar{
+    border: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    width: 100%;
+    height: 60px;
+}
+#align{
+   
+     border: 1px solid black;
+     width: 100%;
+     height: 60px;
+     padding-left: 300px;
+     padding-right: 300px;
+     
+     
+    
+}
+
+#alignOne{
+    /*border: 1px solid black;*/
+   
+    width: 40%;
+    height: auto;
+    margin: auto;
+    text-decoration: none;
+    font-size: 10px;
+}
+#alignTwo{
+    
+    float: left;
+    width: 20%;
+    height: 100%;
+    padding-bottom: 50px;
+    font-size: 10px;
+    
+}
+#alignThree{
+    
+    float: right;
+    width: 40%;
+    height: 100%;
+    padding-left: 80px;
+    
+}
+#alignThree a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+nav ul li {
+    display: inline-block;
+}
