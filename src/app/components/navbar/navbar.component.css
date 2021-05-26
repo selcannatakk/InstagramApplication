@@ -65,4 +65,8 @@ header{
 }
 nav ul li {
     display: inline-block;
-}
+}/*
+nav ul li images{
+    display: inline-block;
+    font-size: 10px;
+}*/
