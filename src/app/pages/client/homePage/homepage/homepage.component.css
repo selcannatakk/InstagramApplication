@@ -6,24 +6,21 @@ body{
  margin: 0;
  padding: 0;
 }
-main{
-   padding: 0px 300px;
-   
-}
+
 #align{
-    border: 1px solid black;
+    border: 1px solid blue;
     margin: auto;
     height: 5000px;
     width: 70%;
 }
 #selectOne{
-    border: 1px solid black;
+    border: 1px solid orange;
     width: 60%;
    float: left;
 }
 #selectTwo{
-    width: auto;
-    margin: auto;
+    border: 1px solid green;
+    width: 100%;
     padding: 25px 200px;
     float: left;
 }

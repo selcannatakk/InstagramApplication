@@ -1,5 +1,14 @@
-#container{
+*{
+    box-sizing: border-box;
+}
+body{
+ margin: 0;
+ padding: 0;
+}
+.container{
+    border: 1px solid blueviolet;
+    width: 600px;
+}
+.card{
     border: 1px solid red;
-    width: auto;
-    margin: auto;
 }
