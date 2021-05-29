@@ -7,14 +7,19 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomepageComponent } from './pages/client/homePage/homepage/homepage.component';
 import { CardComponent } from './components/card/card.component';
 import { StateComponent } from './components/state/state.component';
-
+import { SmallcardComponent } from './components/smallcard/smallcard.component';
+import { RecommendcardComponent } from './components/recommendcard/recommendcard.component';
+import { AboutComponent } from './components/about/about.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     HomepageComponent,
     CardComponent,
-    StateComponent
+    StateComponent,
+    SmallcardComponent,
+    RecommendcardComponent,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,33 +1,28 @@
 
-*{
-    box-sizing: border-box;
-}
-body{
- margin: 0;
- padding: 0;
-}
 
 #align{
-    border: 1px solid blue;
+
     margin: auto;
+    margin-top: 30px;
+    margin-left: 25% ;
     height: 5000px;
     width: 70%;
 }
 #selectOne{
-    border: 1px solid orange;
-    width: 60%;
+
+    margin-bottom: 20px;
+    width: 45%;
    float: left;
 }
 #selectTwo{
-    border: 1px solid green;
+
     width: 100%;
-    padding: 25px 200px;
+    margin-top: 30px;
     float: left;
 }
 #selectThree{
 
-    border: 1px solid black;
-    width: 40%;
+    width: 30%;
     float: left;
     
 }
