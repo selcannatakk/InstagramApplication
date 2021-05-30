@@ -1,7 +1,4 @@
 
-#select{
-   
-}
 ul li {
     display: inline-block;
 }
@@ -16,7 +13,6 @@ ul li a img{
     box-shadow: 1px 1px 2px 3px rgb(219, 217, 217);
     width: 50px;
     height: 50px; 
-    padding-bottom: 10px;
     border-radius:40px;
 }
 #switch a{
@@ -38,7 +34,7 @@ ul li a img{
 
 }
 #userTwo a{
-    color: black;
+    color: rgb(153, 152, 152);
     width: auto;
     height: auto;
     margin-left: 30px;
